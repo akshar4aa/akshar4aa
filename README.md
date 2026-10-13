@@ -1,199 +1,156 @@
-<!-- ═══════════ ANIMATED HEADER ═══════════ -->
+
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Akshara" />
-
-</div>
-
-<!-- ═══════════ HERO ═══════════ -->
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24&text=AKSHARA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Dreamer%20%7C%20Builder&descAlignY=60&animation=fadeIn" width="100%" alt="Animated header" />
 
 <table>
 <tr>
 <td width="38%" align="center" valign="middle">
 
-<img src="./gitprofile.png" width="100%" alt="Akshara" />
+<img src="https://raw.githubusercontent.com/akshar4aa/akshar4aa/main/gitprofile.jpeg" width="100%" alt="Akshara's portrait" />
 
 </td>
-<td width="62%" align="left" valign="middle">
+<td width="62%" align="center" valign="middle">
 
-## Hi, I'm Akshara 👋
+# Hi, I'm Akshara 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D4A373&background=00000000&center=false&vCenter=true&width=480&height=45&lines=CSE+(Data+Science)+Student;MERN+Stack+Developer;Building+Creative+Web+Apps;Exploring+AI+%26+Web+Development" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&pause=900&color=B08968&center=true&vCenter=true&width=420&height=100&lines=CSE+(Data+Science)+Student;MERN+Stack+Developer;Building+Creative+Web+Apps;Exploring+AI+Integration;Turning+Ideas+Into+Code" alt="Animated introduction" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE%20(Data%20Science)-0D1117?style=for-the-badge&labelColor=161B22&color=B08968" alt="Degree" />
-<img src="https://img.shields.io/badge/Stack-MERN-0D1117?style=for-the-badge&labelColor=161B22&color=B08968" alt="Stack" />
-<img src="https://img.shields.io/badge/Focus-AI%20Powered%20Apps-0D1117?style=for-the-badge&labelColor=161B22&color=B08968" alt="Focus" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=akshar4aa&label=Profile%20Views&color=B08968&style=for-the-badge&labelColor=161B22" alt="Profile views" />
+<a href="https://github.com/akshar4aa">
+<img src="https://img.shields.io/badge/GitHub-akshar4aa-B08968?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
 
 </td>
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" width="100%" alt="Animated divider"/>
+
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+## ✨ About Me
 
-<!-- ═══════════ ABOUT ═══════════ -->
+<img align="right" width="115" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation"/>
+
+- 🎓 B.Tech student in Computer Science (Data Science).
+- 💻 Building applications with the MERN stack.
+- 🤖 Exploring AI-powered web applications.
+- 🚀 Turning ideas into useful projects.
+- 🌱 Learning something new every day.
+
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" width="100%" alt="Section divider"/>
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-<img src="./assets/title-about.svg" width="100%" alt="About Me" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,python,git,github,vscode&theme=light" alt="Technology stack"/>
 
 </div>
 
-```js
-const akshara = {
-  role: "CSE (Data Science) Student & Full-Stack Developer",
-  stack: ["MongoDB", "Express", "React", "Node.js"],
-  currentlyExploring: ["AI integration", "Gemini API", "Creative UI"],
-  motto: "Building today. Improving every day.",
-  openTo: ["Collaborations", "Internships", "Interesting projects"],
-};
-```
+## 💫 Currently Exploring
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
-
-<!-- ═══════════ TECH STACK ═══════════ -->
 <div align="center">
 
-<img src="./assets/title-stack.svg" width="100%" alt="Tech Stack" />
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,python,git,github,vscode&theme=dark&perline=12" alt="Tech stack" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&pause=1200&color=B08968&center=true&vCenter=true&width=500&lines=Full-Stack+Development;AI+Integration+with+MERN;Better+UI%2FUX+Design;Building+Real-World+Projects" alt="Currently exploring animation"/>
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" width="100%" alt="Section divider"/>
 
-<!-- ═══════════ PROJECTS ═══════════ -->
-<div align="center">
-
-<img src="./assets/title-projects.svg" width="100%" alt="Featured Projects" />
-
-</div>
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### ☕ Time Lapse Café
-A full-stack café website with authentication, dynamic menu, shopping cart and an admin dashboard.
+### ☕ Time Lapse Café
 
-<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=83CD29" />
-<img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248" />
+A café website with authentication, dynamic menus, cart and admin dashboard.
 
-**[View Repository →](https://github.com/akshar4aa/time_lapse_cafe)**
+**Stack:** MERN
+
+<a href="https://github.com/akshar4aa/time_lapse_cafe">
+<img src="https://img.shields.io/badge/Explore-Project-B08968?style=for-the-badge" alt="Explore Time Lapse Café"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-#### 📚 College Notes Platform
-A notes-sharing platform with authentication, uploads, CRUD operations and AI-powered summaries.
+### 📚 College Notes Platform
 
-<img src="https://img.shields.io/badge/MERN-161B22?style=flat-square&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/Gemini%20API-161B22?style=flat-square&logo=googlegemini&logoColor=8E75B2" />
-<img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=white" />
+Share notes, manage uploads and generate AI-powered summaries.
 
-**[Live Demo →](https://college-notes-platform-xo4s.vercel.app/)**
+**Stack:** MERN + Gemini API
+
+<a href="https://college-notes-platform-xo4s.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-D6C0A8?style=for-the-badge" alt="College Notes live demo"/>
+</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🎮 LearnScape
-A gamified learning project designed to make learning more interactive and fun.
+### 🎮 LearnScape
 
-<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Pygame-161B22?style=flat-square&logo=python&logoColor=white" />
+A gamified learning project built with Python and Pygame.
 
-**[View Repository →](https://github.com/akshar4aa/LearnScape)**
+<a href="https://github.com/akshar4aa/LearnScape">
+<img src="https://img.shields.io/badge/View-Repository-B08968?style=for-the-badge" alt="LearnScape repository"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-#### 🛍️ ShopEZ
-An e-commerce application built with the MERN stack.
+### 🛍️ ShopEZ
 
-<img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=83CD29" />
+An e-commerce project using MongoDB, Express, React and Node.js.
 
-**[View Repository →](https://github.com/akshar4aa?tab=repositories)**
+**Stack:** MERN
 
 </td>
 </tr>
 </table>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" width="100%" alt="Section divider"/>
 
-<!-- ═══════════ STATS ═══════════ -->
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<img src="./assets/title-analytics.svg" width="100%" alt="GitHub Analytics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=akshar4aa&show_icons=true&hide_border=true&title_color=B08968&icon_color=B08968&theme=default" alt="GitHub statistics"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akshar4aa&show_icons=true&hide_border=false&border_color=30363D&border_radius=12&bg_color=0D1117&title_color=D4A373&icon_color=B08968&text_color=C9D1D9&ring_color=B08968" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshar4aa&layout=compact&hide_border=false&border_color=30363D&border_radius=12&bg_color=0D1117&title_color=D4A373&text_color=C9D1D9" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=akshar4aa&theme=dark&background=0D1117&border=30363D&ring=D4A373&fire=D4A373&currStreakLabel=D4A373&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=B08968&dates=8B949E&border_radius=12" alt="Streak stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshar4aa&layout=compact&hide_border=true&title_color=B08968&theme=default" alt="Top programming languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshar4aa&bg_color=0D1117&color=C9D1D9&line=D4A373&point=FFFFFF&area=true&area_color=B08968&hide_border=true&radius=12" width="100%" alt="Contribution graph" />
+<img src="https://streak-stats.demolab.com?user=akshar4aa&hide_border=true&ring=B08968&fire=B08968&currStreakLabel=B08968" alt="GitHub contribution streak"/>
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" width="100%" alt="Section divider"/>
 
-<!-- ═══════════ TROPHIES ═══════════ -->
+## 🐍 Contribution Journey
+
 <div align="center">
 
-<img src="./assets/title-trophies.svg" width="100%" alt="Trophies" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=akshar4aa&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="Trophies" />
+<img src="https://raw.githubusercontent.com/akshar4aa/akshar4aa/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake"/>
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+---
 
-<!-- ═══════════ SNAKE ═══════════ -->
 <div align="center">
 
-<img src="./gitprofile.jpeg" width="100%" alt="Contribution Snake" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&pause=1200&color=B08968&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing!;Keep+learning.+Keep+creating." alt="Animated closing message"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshar4aa/akshar4aa/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshar4aa/akshar4aa/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/akshar4aa/akshar4aa/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<br/><br/>
 
-</div>
-
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
-
-<!-- ═══════════ CONNECT ═══════════ -->
-<div align="center">
-
-<img src="./assets/title-connect.svg" width="100%" alt="Let's Connect" />
-
-<a href="https://github.com/akshar4aa"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=D4A373" alt="Email" /></a>
-
-</div>
-
-<!-- ═══════════ ANIMATED FOOTER ═══════════ -->
-<div align="center">
-
-<img src="./assets/footer.svg" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=gradient" width="100%" alt="Animated footer"/>
 
 </div>
