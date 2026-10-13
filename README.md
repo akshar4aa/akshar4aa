@@ -5,7 +5,7 @@
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="./gitptofile.png" width="100%" alt="Akshara's Profile Picture" />
+<img src="./gitprofile.png" width="100%" alt="Akshara's Profile Picture" />
 
 </td>
 <td width="60%" align="left" valign="middle">
