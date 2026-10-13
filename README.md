@@ -1,7 +1,7 @@
 <!-- ═══════════ ANIMATED HEADER ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2B2118,100:B08968&height=230&section=header&text=Akshara&fontSize=72&fontColor=E6C9A8&fontAlignY=38&animation=fadeIn&desc=Building%20things%20for%20the%20web%20%7C%20Exploring%20AI&descSize=18&descAlignY=60&descColor=C9D1D9" width="100%" alt="Header" />
+<img src="./assets/header.svg" width="100%" alt="Akshara" />
 
 </div>
 
@@ -37,12 +37,12 @@
 
 </div>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 <!-- ═══════════ ABOUT ═══════════ -->
 <div align="center">
 
-### ✦ About Me ✦
+<img src="./assets/title-about.svg" width="100%" alt="About Me" />
 
 </div>
 
@@ -56,23 +56,23 @@ const akshara = {
 };
 ```
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 <!-- ═══════════ TECH STACK ═══════════ -->
 <div align="center">
 
-### ✦ Tech Stack ✦
+<img src="./assets/title-stack.svg" width="100%" alt="Tech Stack" />
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,python,git,github,vscode&theme=dark&perline=12" alt="Tech stack" />
 
 </div>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 <!-- ═══════════ PROJECTS ═══════════ -->
 <div align="center">
 
-### ✦ Featured Projects ✦
+<img src="./assets/title-projects.svg" width="100%" alt="Featured Projects" />
 
 </div>
 
@@ -132,12 +132,12 @@ An e-commerce application built with the MERN stack.
 </tr>
 </table>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 <!-- ═══════════ STATS ═══════════ -->
 <div align="center">
 
-### ✦ GitHub Analytics ✦
+<img src="./assets/title-analytics.svg" width="100%" alt="GitHub Analytics" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=akshar4aa&show_icons=true&hide_border=false&border_color=30363D&border_radius=12&bg_color=0D1117&title_color=D4A373&icon_color=B08968&text_color=C9D1D9&ring_color=B08968" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshar4aa&layout=compact&hide_border=false&border_color=30363D&border_radius=12&bg_color=0D1117&title_color=D4A373&text_color=C9D1D9" alt="Top languages" />
@@ -152,23 +152,23 @@ An e-commerce application built with the MERN stack.
 
 </div>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 <!-- ═══════════ TROPHIES ═══════════ -->
 <div align="center">
 
-### ✦ Trophies ✦
+<img src="./assets/title-trophies.svg" width="100%" alt="Trophies" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=akshar4aa&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="Trophies" />
 
 </div>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 <!-- ═══════════ SNAKE ═══════════ -->
 <div align="center">
 
-### ✦ Contribution Snake ✦
+<img src="./gitprofile.jpeg" width="100%" alt="Contribution Snake" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshar4aa/akshar4aa/output/github-contribution-grid-snake-dark.svg" />
@@ -178,12 +178,12 @@ An e-commerce application built with the MERN stack.
 
 </div>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 <!-- ═══════════ CONNECT ═══════════ -->
 <div align="center">
 
-### ✦ Let's Connect ✦
+<img src="./assets/title-connect.svg" width="100%" alt="Let's Connect" />
 
 <a href="https://github.com/akshar4aa"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
@@ -194,6 +194,6 @@ An e-commerce application built with the MERN stack.
 <!-- ═══════════ ANIMATED FOOTER ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B08968,50:2B2118,100:0D1117&height=140&section=footer&text=Made%20with%20curiosity%20%26%20code&fontSize=20&fontColor=E6C9A8&fontAlignY=70&animation=twinkling" width="100%" alt="Footer" />
+<img src="./assets/footer.svg" width="100%" alt="Footer" />
 
 </div>
